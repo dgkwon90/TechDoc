@@ -7,6 +7,7 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하기 위해 생성하였다.
 ---
 ## 버전 관리 시스템
 [버전 관리란?](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
+[Git Merge 이해하기](https://im-developer.tistory.com/182)
 
 ---
 ## 버전 관리 웹호스팅 서비스
