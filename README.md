@@ -13,6 +13,14 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하기 위해 생성하였다.
 ## 버전 관리 웹호스팅 서비스
 [Gitlab Docker로 설치](https://www.lesstif.com/gitlab/install-gitlab-using-docker-100205406.html)
 
+[Ansible Pipeline With GitLab](https://kruyt.org/ansible-ci-with-gitlab/)
+
+[GitHub 요금 정책 정리](https://www.lainyzine.com/ko/article/how-to-create-an-organization-for-collaboration-on-github/)
+
+---
+## Workflow 정리
+[Git Flow 정리](https://medium.com/geekculture/enhanced-working-flow-from-git-flow-github-flow-and-gitlab-flow-9fdb02ef65dd)
+
 ---
 ## Container
 [Docker VS Kubernetes](https://jbhs7014.tistory.com/81?category=460188)
@@ -20,6 +28,14 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하기 위해 생성하였다.
 [openshift](https://jbhs7014.tistory.com/98)
 
 [podman 소개 및 설치](https://www.lesstif.com/container/podman-98926748.html)
+
+---
+## 문서 시스템
+[마크다운 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+---
+## 업무 프로세스
+[업무 프로세스](http://developer.gaeasoft.co.kr/development-guide/workflow/gitlab-workflow-guide/)
 
 ---
 ## 읽고 있던 블로그 글
