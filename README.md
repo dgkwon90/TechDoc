@@ -21,6 +21,10 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 ## Workflow 정리
 [Git Flow 정리](https://medium.com/geekculture/enhanced-working-flow-from-git-flow-github-flow-and-gitlab-flow-9fdb02ef65dd)
 
+## CI (Continuous Integration) 정리
+[TeamCity란]()
+[Jenkins란](https://velog.io/@jellyb3ar/CICD-Jenkins-%EC%A0%95%EB%A6%AC)
+
 ---
 ## Container
 [Docker VS Kubernetes](https://jbhs7014.tistory.com/81?category=460188)
