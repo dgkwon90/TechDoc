@@ -108,6 +108,17 @@ func test(){
 }
 ```
 
+github에서는 ( ```c ) 로 시작하면 해당 언어에 맞게 하이라이트됨
+```c
+
+#include <stdio.h>
+int main(void)
+{
+    printf("%d \n", 123)
+    return 0;
+}
+```
+
 ---
 ---
 
@@ -125,8 +136,21 @@ func test(){
 6.링크
 ========================
 참조링크
+    
+    사용 용법: [link keyword][id]
 
-Comming Soon.
+    [id]: URL "Optional Title here"
+
+
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+
+    사용문법: [Title](link)
+
+[Google](https://google.com, "google link")
+
 
 ---
 ---
@@ -197,3 +221,42 @@ Comming Soon.
 |테스트1|*강조1*|테스트3|
 |테스트1|**강조2**|테스트3|
 |테스트1|<span style="color:red">강조3</span>|테스트3|
+
+---
+---
+
+
+8.강조
+========================
+
+기울임
+
+*1*
+_하하하_
+
+굵게
+
+__1__
+
+**하하**
+
+
+---
+---
+
+9.이미지
+========================
+
+이미지 넣기
+
+![Alt text](./img/test1.jpg)
+![Alt text](/Markdown/img/test1.jpg "Optional title")
+
+
+이미지 사이 조정 해서 넣기
+
+<img src="./img/test1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
+<img src="./img/test1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+---
+---
