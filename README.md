@@ -1,6 +1,6 @@
 # TechDoc
 
- 이곳은 내가 개발을 하면서 참고 하였던 블로그나 기술 문서들을
+ 이곳은 개발을 하면서 참고 하였던 블로그나 기술 문서들을
  
 Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
@@ -18,6 +18,8 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 ## 버전 관리 웹호스팅 서비스
 [Gitlab Docker로 설치](https://www.lesstif.com/gitlab/install-gitlab-using-docker-100205406.html)
 
+[GitLab Pipelines for merge requests]()
+
 [Ansible Pipeline With GitLab](https://kruyt.org/ansible-ci-with-gitlab/)
 
 [GitHub 요금 정책 정리](https://www.lainyzine.com/ko/article/how-to-create-an-organization-for-collaboration-on-github/)
@@ -25,6 +27,8 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 [Gitlab 에서 Private 가져오는 방법](https://mingrammer.com/go-modules-private-repo/)
 
 [Go module 패키지 구성 방법](https://www.popit.kr/%EA%B3%A0-%EB%AA%A8%EB%93%88%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%84%B1-%EB%B0%A9%EB%B2%95-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0/)
+
+
 
 
 ---
@@ -58,9 +62,17 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 
 ---
-
 ## Golang
 [Golang build error](https://yoonbh2714.blogspot.com/2021/05/golang-116-gosum.html)
+
+[Golang cmd gofmt 정리](https://pkg.go.dev/cmd/gofmt)
+
+[Golang cmd vet 정리](https://pkg.go.dev/cmd/vet@go1.17.3)
+
+
+---
+## IDE
+[Goland GitBash 변경](https://violetboralee.medium.com/intellij-idea%EC%99%80-git-bash-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-63e8216aa7de)
 
 
 ---
