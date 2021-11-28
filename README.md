@@ -80,6 +80,8 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 [Golang Module에 대한 정리2](https://yoongrammer.tistory.com/33)
 
+[Golang get pacakge를 version 가져오기](https://coding-start.tistory.com/273)
+
 ---
 ## IDE
 [Goland GitBash 변경](https://violetboralee.medium.com/intellij-idea%EC%99%80-git-bash-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-63e8216aa7de)
