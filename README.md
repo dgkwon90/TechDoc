@@ -54,6 +54,10 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 [podman  소개 및 설치2](https://chhanz.github.io/container/2020/03/02/podman/)
 
+[Docker 기본 개념](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html?fbclid=IwAR0ZELbxakvfey3bO1yDiLBSvpsT1QavGCpPBd5v50i3BeHVm_l67wgyx2I)
+
+[kubernetes 환경 구축 해보기](https://coffeewhale.com/kubernetes/cluster/virtualbox/2020/08/31/k8s-virtualbox/)
+
 ---
 ## 문서 시스템
 [마크다운 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
