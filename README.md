@@ -43,6 +43,10 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 [Jenkins란](https://velog.io/@jellyb3ar/CICD-Jenkins-%EC%A0%95%EB%A6%AC)
 
+[TeamCity  SSL 설정하기 Windows](https://www.damirscorner.com/blog/posts/20170120-HttpsInTeamCityWithLetsEncryptCertificate.html)
+
+[TeamCity SSL 설정하기 Ubuntu?](https://gist.github.com/brunojppb/1c5a95f941f7306a4865766a3316da3e)
+
 
 ---
 ## Container
@@ -94,7 +98,13 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 [SSH.pem 파일 생성하기](https://aurum.tistory.com/57)
 
 ---
-##
+## 정리 필요한 개념
+[tenant란?](https://www.enqdeq.net/291)
+[golang generics](https://bitfieldconsulting.com/golang/generics?fbclid=IwAR0YZAHgeVb4YPgOqfnO8IV709rr6UNDZBPPXnYeMYWx3T7Lp4dSG2S_GVI)
+[Mongodb 데이터 모델 구조 설계 방법1](https://meetup.toast.com/posts/276)
+[Mongodb 데이터 모델 구조 설계 방법2](https://blog.voidmainvoid.net/241)
+[Mongodb 데이터 모델 구조 설계 방법3](https://m.blog.naver.com/heops79/221649719470)
+[Mongodb 데이터 모델 구조 설계 방법4](https://edykim.com/ko/post/summary-of-six-rules-for-designing-a-mongodb-schema/)
 
 ---
 ## 읽고 있던 블로그 글
