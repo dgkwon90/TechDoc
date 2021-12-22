@@ -87,6 +87,16 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 [Golang get pacakge를 version 가져오기](https://coding-start.tistory.com/273)
 
 ---
+
+---
+## RPC
+[grpc 개념](https://corgipan.tistory.com/6?category=740480)
+
+[grpc 공식 사이트](https://grpc.io/docs/languages/go/)
+
+[grpc protoc 관련해서 안되던 문제](https://stackoverflow.com/questions/61044883/switch-from-go-out-plugins-to-go-grpc-out-path-problem)
+
+---
 ## IDE
 [Goland GitBash 변경](https://violetboralee.medium.com/intellij-idea%EC%99%80-git-bash-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-63e8216aa7de)
 
