@@ -86,6 +86,8 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 [Golang get pacakge를 version 가져오기](https://coding-start.tistory.com/273)
 
+[Golang 기본 설명 잘되어 있는 곳](https://programmers.co.kr/learn/courses/13)
+
 ---
 
 ---
