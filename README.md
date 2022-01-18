@@ -88,6 +88,8 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 [Golang 기본 설명 잘되어 있는 곳](https://programmers.co.kr/learn/courses/13)
 
+[Golang 쓰면서 알게된 점](https://fors.tistory.com/628)
+
 ---
 
 ---
