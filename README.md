@@ -116,6 +116,10 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 [SSH.pem 파일 생성하기](https://aurum.tistory.com/57)
 
 ---
+## Nosql 
+[MongoDB 모델 설계](https://blog.voidmainvoid.net/241)
+
+---
 ## 정리 필요한 개념
 [tenant란?](https://www.enqdeq.net/291)
 [golang generics](https://bitfieldconsulting.com/golang/generics?fbclid=IwAR0YZAHgeVb4YPgOqfnO8IV709rr6UNDZBPPXnYeMYWx3T7Lp4dSG2S_GVI)
