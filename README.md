@@ -136,4 +136,6 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 [신기한걸 하시는 분](https://news.hada.io/)
 
+[Golang 볼만한 곳](https://dev-yakuza.posstree.com/ko/golang/context/)
+
 ---
