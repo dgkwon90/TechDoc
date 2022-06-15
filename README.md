@@ -129,7 +129,7 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 [Mongodb 데이터 모델 구조 설계 방법4](https://edykim.com/ko/post/summary-of-six-rules-for-designing-a-mongodb-schema/)
 
 ---
-## 읽고 있던 블로그 글
+## 읽고 있던 글
 [백엔드 가이드](https://velog.io/@city7310/%EB%B0%B1%EC%97%94%EB%93%9C%EA%B0%80-%EC%9D%B4%EC%A0%95%EB%8F%84%EB%8A%94-%ED%95%B4%EC%A4%98%EC%95%BC-%ED%95%A8-3.-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A0%95%EB%A6%BD)
 
 [Nginx에 SSL 적용](https://velog.io/@may_soouu/letsencrypt-nginx%EC%97%90-%EC%9D%B8%EC%A6%9D-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0ssl)
@@ -137,5 +137,11 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 [신기한걸 하시는 분](https://news.hada.io/)
 
 [Golang 볼만한 곳](https://dev-yakuza.posstree.com/ko/golang/context/)
+
+[MSA 서비스 패턴](https://happycloud-lee.tistory.com/154)
+
+[Golang loadmap](https://morioh.com/p/7aab933c9b83?f=5c21fb01c16e2556b555ab32&fbclid=IwAR3RBkLCw-zWFCrvI0Y68xnqTrSoCNl7RJYiRXzzRzQC-ZJopEHB5bQRro8)
+
+[Golang Memory 관리](https://www.youtube.com/watch?v=LQTI5jkXOR0)
 
 ---
