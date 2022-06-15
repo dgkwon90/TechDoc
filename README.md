@@ -140,7 +140,7 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 [MSA 서비스 패턴](https://happycloud-lee.tistory.com/154)
 
-[Golang loadmap](https://morioh.com/p/7aab933c9b83?f=5c21fb01c16e2556b555ab32&fbclid=IwAR3RBkLCw-zWFCrvI0Y68xnqTrSoCNl7RJYiRXzzRzQC-ZJopEHB5bQRro8)
+[Golang roadmap](https://morioh.com/p/7aab933c9b83?f=5c21fb01c16e2556b555ab32&fbclid=IwAR3RBkLCw-zWFCrvI0Y68xnqTrSoCNl7RJYiRXzzRzQC-ZJopEHB5bQRro8)
 
 [Golang Memory 관리](https://www.youtube.com/watch?v=LQTI5jkXOR0)
 
