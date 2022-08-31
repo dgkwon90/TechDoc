@@ -11,7 +11,7 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 [Git Merge 이해하기](https://im-developer.tistory.com/182)
 
-[Git clone의 두가지옵션](https://pinocc.tistory.com/138)
+[Git Clone의 두가지옵션](https://pinocc.tistory.com/138)
 
 
 ---
