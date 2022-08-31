@@ -343,26 +343,26 @@ __1__
 
 문법)
     
-    ![Alt text](./img/test1.jpg)
-    ![Alt text](/Markdown/img/test1.jpg "Optional title")
+    ![Alt text](./img/Test1.JPG)
+    ![Alt text](/Markdown/img/Test1.JPG "Optional title")
 
 결과)
 
-![Alt text](./img/test1.jpg)
-![Alt text](/Markdown/img/test1.jpg "Optional title")
+![Alt text](./img/Test1.JPG)
+![Alt text](/Markdown/img/Test1.JPG "Optional title")
 
 이미지 사이 조정 해서 넣기
 
 문법)
 
-    <img src="./img/test1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+    <img src="./img/Test1.JPG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
-    <img src="./img/test1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+    <img src="./img/Test1.JPG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 결과)
 
-<img src="./img/test1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="./img/Test1.JPG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
-<img src="./img/test1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="./img/Test1.JPG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 ---
