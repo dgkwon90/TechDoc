@@ -368,27 +368,27 @@ span tag를 사용하여 컬러도 표시할 수 있다.
 
 문법)
     
-    ![Alt text](./img/Test1.JPG)
-    ![Alt text](/Markdown/img/Test1.JPG "Optional title")
+    ![Alt text](./img/test1.jpg)
+    ![Alt text](/Markdown/img/test1.jpg "Optional title")
 
 결과)
 
-![Alt text](./img/Test1.JPG)
-![Alt text](/Markdown/img/Test1.JPG "Optional title")
+![Alt text](./img/test1.jpg)
+![Alt text](/Markdown/img/test1.jpg "Optional title")
 
 이미지 사이 조정 해서 넣기
 
 문법)
 
-    <img src="./img/Test1.JPG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+    <img src="./img/test1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="test1"></img><br/>
 
-    <img src="./img/Test1.JPG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+    <img src="./img/test1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="test1"></img>
 
 결과)
 
-<img src="./img/Test1.JPG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="./img/test1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="test1"></img><br/>
 
-<img src="./img/Test1.JPG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="./img/test1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="test1"></img>
 
 ---
 ---
@@ -409,7 +409,7 @@ div markdawn="1"은 jekyll에서 html 사이에 markdwon을 인식 하기 위함
     <div mardown="1">
 
     |제목|내용|
-    |-|-|
+    |---|---|
     |1|2|
     |10|20|
 

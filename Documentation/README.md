@@ -124,6 +124,13 @@ Keyword 별 각 Topic에 맞게 링크를 관리 하는 곳이다.
 
 
 ----------------------------------------------------------------
+## TCP 네트워크 성능 검증
+[linux server tcp 성능1](https://meetup.toast.com/posts/53)
+[linux server tcp 성능2](https://meetup.toast.com/posts/54)
+[linux server tcp 성능3](https://meetup.toast.com/posts/55)
+
+
+----------------------------------------------------------------
 ## 정리 필요한 개념
 [tenant란?](https://www.enqdeq.net/291)
 [golang generics](https://bitfieldconsulting.com/golang/generics?fbclid=IwAR0YZAHgeVb4YPgOqfnO8IV709rr6UNDZBPPXnYeMYWx3T7Lp4dSG2S_GVI)
