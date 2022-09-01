@@ -373,12 +373,12 @@ span tag를 사용하여 컬러도 표시할 수 있다.
 문법)
     
     ![Alt text](./img/test1.jpg)
-    ![Alt text](/Markdown/img/test1.jpg "Optional title")
+    ![Alt text](/markdown/img/test1.jpg "Optional title")
 
 결과)
 
 ![Alt text](./img/test1.jpg)
-![Alt text](/Markdown/img/test1.jpg "Optional title")
+![Alt text](/markdown/img/test1.jpg "Optional title")
 
 이미지 사이 조정 해서 넣기
 
