@@ -37,3 +37,4 @@ Table 처리에 대해 정리
 | bugfix-xxxx | production 반영 후 삭제 | 로컬 환경 | 로컬 환경 |
 | production | 계속 유지 | production | console.kaonrms.com|
 | hotfix-xxxx | production 반영 후 삭제 | 로컬 환경 | 로컬 환경 |
+

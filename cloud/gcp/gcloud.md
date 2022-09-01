@@ -26,3 +26,5 @@
 
     #  record set import 하기
     gcloud dns record-sets import my_file.yaml --zone-file-format --zone=my-zone
+
+    
